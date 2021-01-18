@@ -1,6 +1,7 @@
 ﻿## Label Rendering Bug Repo
-Xamarin Forms Version: 5.0.0.1874  (has been seen in previous versions too)
-Device: iPhone 6 (Model: A1586)
+- Xamarin Forms Version: 5.0.0.1874  (has been seen in previous versions too)
+- Device: iPhone 6 (Model: A1586)
+- Posted issue to Xamarin Forms project: https://github.com/xamarin/Xamarin.Forms/issues/13448
 
 **Note:** Issue has been seen on Android and iOS devices in many varying cases when using font scaling. This has proven to be a reoccuring issue with apps that must be designed for accessibility. Specifically, this was original found in a medical app during development that must support a very large set of Accessibility features due to industry requirements.
 
